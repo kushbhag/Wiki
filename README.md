@@ -1,4 +1,5 @@
-# 📚 Wiki 📚
+<h1 align="center">📚 Wiki 📚</h1>
+
 This project is a wikipedia-like online encyclopedia. It is an open source platform where users can view, edit, and create new pages for the online wiki for everyone to see. The application was built using <a href="https://www.djangoproject.com/">Django</a>, and developed as a part of CS_50's Web Programming with Python and Javascript course.
 
 ---
